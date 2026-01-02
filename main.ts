@@ -22,9 +22,9 @@ radio.onReceivedNumber(function (receivedNumber: number) {
     }
 })
 
-//% color="#FFCC00" icon="\uf240" f5e7 e55b f1e6
-//% block="Intelino"
-//% block.loc.nl="Intelino"
+//% color="#4422FF" icon="\uf1e6"
+//% block="Sockets"
+//% block.loc.nl="Stopcontact"
 namespace SocketSSR {
 
     export enum Socket {
